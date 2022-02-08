@@ -13,7 +13,8 @@
 
 - 📫 How to reach me **asanjeetsangam15@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1nL0ko6UpIACpsygvKqd4ifu2sxgQ9bau/view?usp=sharing](https://drive.google.com/file/d/1nL0ko6UpIACpsygvKqd4ifu2sxgQ9bau/view?usp=sharing)
+- 📄 Know about my experiences 
+<a target="_blank" href="https://drive.google.com/file/d/1nL0ko6UpIACpsygvKqd4ifu2sxgQ9bau/view?usp=sharing">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
