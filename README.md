@@ -1,3 +1,5 @@
+![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)
+
 <h1 align="center">Hi 👋, I'm Sanjeet Kumar Sangam</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
