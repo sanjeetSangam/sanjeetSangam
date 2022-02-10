@@ -1,10 +1,10 @@
 ![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)
 
 <h1 align="center">Hi 👋, I'm Sanjeet Kumar Sangam</h1>
-<h3 align="center">I am a Full Stack web developer. I love to do programming and also love to make exicting web apps. I had completed my B.tech with the stream of Manufacturing in CIPET college, Ahmedabad.
+<p align="center">I am a Full Stack web developer. I love to do programming and also love to make exicting web apps. I had completed my B.tech with the stream of Manufacturing in CIPET college, Ahmedabad.
   But having a decent interest in coding brings me to to Web development field and currently I am learning REACT as a frontend library.
   I will love to contribute more in this this field ans also I will be loving to face new challenges in upcoming days.
-</h3>
+</p>
 
 <img src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" align="right" width="400" alt="Coding">
 
