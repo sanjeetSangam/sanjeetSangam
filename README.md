@@ -38,8 +38,8 @@
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
   <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeetsangam&show_icons=true&locale=en&layout=compact" alt="sanjeetsangam" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeetsangam&show_icons=true&locale=en&layout=compact" alt="sanjeetsangam" /></p> 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeetsangam&show_icons=true&locale=en" alt="sanjeetsangam" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sanjeetsangam&show_icons=true&locale=en" alt="sanjeetsangam" /></p> 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sanjeetsangam&" alt="sanjeetsangam" /></p>
