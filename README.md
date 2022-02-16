@@ -1,9 +1,7 @@
 ![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)
 
 <h1 align="center">Hi 👋, I'm Sanjeet Kumar Sangam</h1>
-<p align="center">I am a Full Stack web developer. I love to do programming and also love to make exicting web apps. I had completed my B.tech with the stream of Manufacturing in CIPET college, Ahmedabad.
-  But having a decent interest in coding brings me to to Web development field and currently I am learning REACT as a frontend library.
-  I will love to contribute more in this field and also I will be loving to face new challenges in upcoming days.
+<p align="center">I am a Full Stack web developer. I love to do programming and also love to make exciting web apps. I had completed my B.tech with the stream of Manufacturing in CIPET college, Ahmedabad. But having a decent interest in coding brings me to the Web development field and currently, I am learning REACT as a frontend library. I will love to contribute more in this field and also I will be love to face new challenges in the upcoming days.
 </p>
 
 <img src="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif" align="right" width="400" alt="Coding">
@@ -36,7 +34,9 @@
   <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+  <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a>
+  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="webpack" width="40" height="40"/> </a>
+</p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sanjeetsangam&show_icons=true&locale=en&layout=compact" alt="sanjeetsangam" /></p> 
 
