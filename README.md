@@ -15,7 +15,7 @@
 - 📫 How to reach me **asanjeetsangam15@gmail.com**
 
 - 📄 Know about my experiences 
-<a target="_blank" href="https://drive.google.com/file/d/1PGi-JB31XRE6Yso1sD4TjNUkZlbcsQKj/view?usp=sharing">Resume</a>
+<a target="_blank" href="https://drive.google.com/file/d/1x9k4Xlm5WzUTcQpT95nS786HGFC_Z32q/view">Resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
