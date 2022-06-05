@@ -28,7 +28,7 @@
   <a href="https://www.linkedin.com/in/sanjeet-kumar-sangam-09097421a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="mailto:asanjeetsangam15@gmail.com?subject=SanjeetGit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.instagram.com/san_arts_official_/"><img src="https://img.shields.io/badge/Instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://sanjeet.netlify.app/"><img src="https://img.shields.io/badge/portfolio-%23D14836.svg?&style=for-the-badge&logo=portfolio&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sanjeet.netlify.app/" target="blank" ><img src="https://img.shields.io/badge/portfolio-%23D14836.svg?&style=for-the-badge&logo=portfolio&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
