@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sanjeet Kumar Sangam</h1>
 
-<h3 align="center">A young-smart 🤓 full stack web developer from India 🇮🇳</h3>
+<h3 align="center">A young-crazy 🤓 full stack web developer from India 🇮🇳</h3>
 
 <img align='right' src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" width="350">
 
