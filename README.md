@@ -1,12 +1,12 @@
-![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif)
+<!-- ![MasterHead](https://www.audienceplanet.com/root/template/1//images/web-development.gif) -->
 
 <h1 align="center">Hi 👋, I'm Sanjeet Kumar Sangam</h1>
 
 <h3 align="center">A young-smart 🤓 full stack web developer from India 🇮🇳</h3>
 
-<p align="left"> <img src=https://komarev.com/ghpvc/?username=sanjeetSangam alt=sanjeet/> </p>
+<img align='right' src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" width="350">
 
-<p align="left"> <a href="https://twitter.com/saninfo4" target="blank"><img src="https://img.shields.io/twitter/follow/saninfo4?logo=twitter&style=for-the-badge" alt="rahuldkjain" /></a> </p>
+<p align="left"> <img src=https://komarev.com/ghpvc/?username=sanjeetSangam alt=sanjeet/> </p>
 
 - 🤔 I’m currently working with [SAASHI](https://github.com/sanjeetSangam/saashi-client)
 
@@ -19,32 +19,36 @@
 
 - 👨‍💻 All of my projects are available at [sanjeetSangam](https://github.com/sanjeetSangam?tab=repositories)
 
-- 👨‍💻 Checkout my portfolio [PORTFOLIO](https://sanjeet.netlify.app/)
-
 - ⚡ Fun fact **Doing what I like the most, and it is tooking time to come**
 
 <h3 align="left" >Connect with me:</h3>
-<p align="left" style="display:flex" >
 
-<a href="https://www.linkedin.com/in/sanjeet-kumar-sangam-09097421a/" target="blank" align="left" style="background:red; width:max-content; padding:0.2rem 0.5rem; text-decoration:none; color:white; border-radius:0.5rem" >Linkedin</a>
-
-<a href="https://www.instagram.com/san_arts_official_/" target="blank" align="left" style="background:orange; width:max-content; padding:0.2rem 0.5rem; text-decoration:none; color:black; border-radius:0.5rem" >Instagram</a>
+<p align='left'>
+  <a href="https://twitter.com/saninfo4"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/sanjeet-kumar-sangam-09097421a/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:asanjeetsangam15@gmail.com?subject=SanjeetGit"><img src="https://img.shields.io/badge/gmail-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/san_arts_official_/"><img src="https://img.shields.io/badge/Instagram-%23D14836.svg?&style=for-the-badge&logo=instagram&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://sanjeet.netlify.app/"><img src="https://img.shields.io/badge/portfolio-%23D14836.svg?&style=for-the-badge&logo=portfolio&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;&nbsp;
 
 </p>
 
+
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
-    <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-      <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-    <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
-    <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-     <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> 
-      <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    </p>
+<p >
+  <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Heoku-F7B500?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-F7B500?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/nodejs-F7B500?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MongoDB-F7B500?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/express.js-F7B500?style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+
+<h3>🌱  I'm currently learning...</h3>
+<p >
+  <img src="https://img.shields.io/badge/tailwind-007ACC?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/java%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+</p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=sanjeetSangam&show_icons=true alt=sanjeetSangam /> </p>
+
+<p align="right">
+  <a href="https://www.hotstar.com/in"><img src="https://img.shields.io/badge/HOtstar-%231ED760.svg?&style=for-the-badge&logo=hotstar&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://wynk.in/music"><img src="https://img.shields.io/badge/WYNK MUSIC-%23000000.svg?&style=for-the-badge&logo=wynk&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+  <h5 align="right">🎮 To have fun and spend time...</h5>
+</p>
