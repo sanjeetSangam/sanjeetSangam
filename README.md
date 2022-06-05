@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [sanjeetSangam](https://github.com/sanjeetSangam?tab=repositories)
 
-- ⚡ Fun fact **Doing what I like the most, and it is tooking time to come**
+- ⚡ Fun fact **Doing what I like the most, and it is taking time to come**
 
 <h3 align="left" >Connect with me:</h3>
 
