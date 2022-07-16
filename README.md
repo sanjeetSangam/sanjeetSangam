@@ -44,7 +44,7 @@
   <img src="https://img.shields.io/badge/tailwind-007ACC?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/java%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/typescript%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/nextjs%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react&nbsp;native%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=sanjeetSangam&show_icons=true alt=sanjeetSangam /> </p>
