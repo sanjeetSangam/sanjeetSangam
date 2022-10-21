@@ -2,13 +2,13 @@
 
 <h1 align="center">Hi 👋, I'm Sanjeet Kumar Sangam</h1>
 
-<h3 align="center">A young-crazy 🤓 full stack web developer from India 🇮🇳</h3>
+<h3 align="center">A young-crazy 🤓 full stack web developer from India</h3>
 
 <img align='right' src="https://miro.medium.com/max/1400/0*C-cPP9D2MIyeexAT.gif" width="350">
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sanjeetSangam alt=sanjeet/> </p>
 
-- 🤔 I’m currently working with [Custom YT](https://github.com/sanjeetSangam/custom-youtube)
+- 💻 Salesforce developer in Demandfarm
 
 - 💬 Ask me about **MERN Stack**
 
@@ -19,7 +19,7 @@
 
 - 👨‍💻 All of my projects are available at [sanjeetSangam](https://github.com/sanjeetSangam?tab=repositories)
 
-- ⚡ Fun fact **Doing what I like the most, and it is taking time to come**
+- ⚡ Fun fact **A developer who loves the colors and can good portraits**
 
 <h3 align="left" >Connect with me:</h3>
 
@@ -36,15 +36,16 @@
 <h3 align="left">Languages and Tools:</h3>
 <p >
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/CSS3-1572B6?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">&nbsp;&nbsp;<img src="https://img.shields.io/badge/Heroku-F7B500?style=for-the-badge&logo=heroku&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/Git-F7B500?style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/nodejs-F7B500?style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/MongoDB-F7B500?style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;<img src="https://img.shields.io/badge/express.js-F7B500?style=for-the-badge&logo=express&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/java-F7B500?style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
 <h3>🌱  I'm currently learning...</h3>
 <p >
-  <img src="https://img.shields.io/badge/tailwind-007ACC?style=for-the-badge&logo=tailwindcss&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/java%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/typescript%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/react&nbsp;native%20-%23e34f26.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/salesforce-007ACC?style=for-the-badge&logo=salesforce&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/apex%20-%23e34f26.svg?&style=for-the-badge&logo=apex&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/lwc%20-%23e34f26.svg?&style=for-the-badge&logo=lwc&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/soql&nbsp;%20-%23e34f26.svg?&style=for-the-badge&logo=soql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=sanjeetSangam&show_icons=true alt=sanjeetSangam /> </p>
