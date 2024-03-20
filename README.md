@@ -8,7 +8,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sanjeetSangam alt=sanjeet/> </p>
 
-- 💻 Salesforce developer in Demandfarm
+- 💻 Frontend developer in Demandfarm
 
 - 💬 Ask me about **MERN Stack**
 
