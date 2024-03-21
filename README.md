@@ -40,12 +40,16 @@
 </p>
 
 
-<h3>🌱  I'm currently learning...</h3>
+<h3>🌱  Work Experience</h3>
 <p >
   <img src="https://img.shields.io/badge/salesforce-007ACC?style=for-the-badge&logo=salesforce&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/apex%20-%23e34f26.svg?&style=for-the-badge&logo=apex&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/lwc%20-%23e34f26.svg?&style=for-the-badge&logo=lwc&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/soql&nbsp;%20-%23e34f26.svg?&style=for-the-badge&logo=soql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/react.js&nbsp;%20-%23e34f26.svg?&style=for-the-badge&logo=soql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node.js&nbsp;%20-%23e34f26.svg?&style=for-the-badge&logo=soql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/express.js&nbsp;%20-%23e34f26.svg?&style=for-the-badge&logo=soql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/mongodb&nbsp;%20-%23e34f26.svg?&style=for-the-badge&logo=soql&logoColor=white" />&nbsp;&nbsp;&nbsp;&nbsp;
 </p>
 
 <p align="center"> <img src=https://github-readme-stats.vercel.app/api?username=sanjeetSangam&show_icons=true alt=sanjeetSangam /> </p>
