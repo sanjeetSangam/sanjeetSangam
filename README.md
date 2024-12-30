@@ -8,7 +8,7 @@
 
 <p align="left"> <img src=https://komarev.com/ghpvc/?username=sanjeetSangam alt=sanjeet/> </p>
 
-- 💻 ex-Fullstack developer in Demandfarm
+- 💻 Frontend developer in Think Future Technologies
 
 - 💬 Ask me about **MERN Stack**
 
